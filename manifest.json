@@ -8,13 +8,19 @@
     },
     "version": "1.0~ynh5",
     "url": "https://github.com/hgentry/81/",
+    "upstream": {
+        "license": "MIT",
+        "website": "https://github.com/hgentry/81/",
+        "demo": "https://hgentry.github.io/81/",
+        "code": "https://github.com/hgentry/81"
+    },
     "license": "MIT",
     "maintainer": {
         "name": "eric_G",
         "email": ""
     },
     "requirements": {
-        "yunohost": ">= 4.1.7"
+        "yunohost": ">= 4.2.4"
     },
     "multi_instance": true,
     "services": [
